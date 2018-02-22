@@ -33,8 +33,8 @@
     "versionPublish": "4.6.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/media-20180123-128x28.png",
-    "noImageResize": ""
+    "favicon": "@PROJECT_PATH@/assets/images/800px-ec-130j-line-drawing.svg-128x94.png",
+    "noImageResize": "true"
   },
   "pages": {
     "index.html": {
