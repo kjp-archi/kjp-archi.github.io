@@ -24,8 +24,8 @@
         "display4Font": "Rubik",
         "display4Size": 1,
         "isRoundedButtons": true,
-        "isAnimatedOnScroll": false,
-        "isScrollToTopButton": false
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true
       }
     },
     "versionFirst": "4.6.3",
@@ -33,7 +33,7 @@
     "versionPublish": "4.6.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/noun-81622-cc.svg",
+    "favicon": "@PROJECT_PATH@/assets/images/ewen-01-128x170.png",
     "noImageResize": ""
   },
   "pages": {
