@@ -33,7 +33,7 @@
     "versionPublish": "4.6.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/ewen-01-128x170-1.png",
+    "favicon": "@PROJECT_PATH@/assets/images/06-128x333.png",
     "noImageResize": ""
   },
   "pages": {
