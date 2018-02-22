@@ -33,7 +33,7 @@
     "versionPublish": "4.6.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/noun-526002-cc.svg",
+    "favicon": "@PROJECT_PATH@/assets/images/noun-46895-cc.svg",
     "noImageResize": ""
   },
   "pages": {
